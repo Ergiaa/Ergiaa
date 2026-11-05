@@ -13,9 +13,9 @@ I build backend systems where getting the security and data model right matters 
 I work mainly in TypeScript, with Python for retrieval and ML services and Java from teaching Algorithms and Data Structures at ITS. I am comfortable owning a system end to end, from relational schema through API design to infrastructure and deployment.
 
 - Currently deploying **Scholar Seek**, my undergraduate thesis, for continued use by a lab at ITS
-- Learning **Go** and deeper **clean architecture**
+- Going deeper on **clean architecture**
 - Open to collaborating on backend systems, API design, and anything involving auth, encryption, or search
-- Ask me about TypeScript, Node.js, Express, PostgreSQL schema design, background job architecture, Terraform and CI/CD, or Scrum
+- Ask me about TypeScript, Node.js, PostgreSQL schema design, background job architecture, Terraform and CI/CD, or why your editor should be Neovim
 
 ## Featured work
 
@@ -60,7 +60,6 @@ I work mainly in TypeScript, with Python for retrieval and ML services and Java 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Testing**
@@ -71,6 +70,16 @@ I work mainly in TypeScript, with Python for retrieval and ML services and Java 
 
 **Also work with:** AES-256-GCM and envelope encryption, RSA key management, OIDC/SSO, TOTP MFA, JWT, RBAC, OAuth2, Bull job queues, Puppeteer, Tesseract.js, ExcelJS, Astro, React, TailwindCSS, Turborepo.
 
+## Where I work
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Omarchy](https://img.shields.io/badge/Omarchy-1E1E2E?style=flat-square)
+![Hyprland](https://img.shields.io/badge/Hyprland-00A4CC?style=flat-square&logo=hyprland&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9?style=flat-square)
+![fish](https://img.shields.io/badge/fish-34C534?style=flat-square)
+
+I daily drive **Arch Linux** with **Omarchy** on Hyprland, and most of my day happens in a terminal: foot, fish, Atuin for shell history, and **Neovim with LazyVim** for everything I write, from TypeScript services to Python ML code. I like the tinkering that comes with it. Tuning a tiling window manager, remapping keys with Makima, reshaping btrfs volumes and boot config, and fixing whatever a rolling release decides to break this week all count as fun to me.
 ## Ways of working
 
 Alongside the engineering work I have run delivery as Scrum Master: sprints and backlog with the Product Owner at BETA U through March 2026, and on a university competition project. I also spent a term as a teaching assistant for Algorithms and Data Structures at ITS, running lab sessions in Java and reviewing student code. I care about clean, testable architecture and systems the next person can maintain.
